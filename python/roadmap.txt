@@ -1,0 +1,33 @@
+Python Roadmap
+Basics
+-basic syntax
+-variable & datatypes
+-conditional statements
+-list and toples
+-functions
+-type casting 
+Data structure
+-Arrays & linkelist
+-Heap stack
+-Recursion
+OOP
+-classes
+-Inheritance
+-methods
+-dunder
+Package managers
+-pip 
+-conda 
+-pypl
+Synchronous Frameworks
+Django
+-Flask
+
+Asynchronous Frameworks
+-tornado 
+-sanic
+Testing app
+-docker 
+-nose
+-pytest
+Career
